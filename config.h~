@@ -1,0 +1,11 @@
+#ifndef DIRETIVAS_H
+
+#define DIRETIVAS_H
+
+	/**  INSTANCES OF SIMOVI'S API  **/
+	#define _NUM_STATES_ 2	//NUM OF STATES
+	#define _NUM_CITIES_ 2	//NUM OF CITIES
+	#define _NUM_TYPES_  12	//NUM OF TYPES
+	#define _PACKAGE_RESPONSE_ 10 //LENGTH OF RESPONSE (JSON)
+
+#endif
